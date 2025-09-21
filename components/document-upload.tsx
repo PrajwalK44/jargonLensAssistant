@@ -1,8 +1,5 @@
+"use client";
 import { getBackendUrl } from "../lib/api";
-("use client");
-
-// ...existing imports and code...
-("use client");
 
 import { useState, useCallback } from "react";
 import { useDropzone } from "react-dropzone";
