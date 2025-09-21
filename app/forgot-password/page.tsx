@@ -1,5 +1,6 @@
+"use client";
 import { getBackendUrl } from "../../lib/api";
-("use client");
+
 
 import { useState } from "react";
 
