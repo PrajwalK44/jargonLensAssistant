@@ -298,7 +298,7 @@ export function DocumentUpload() {
                 Your document is ready for AI analysis. We'll break down complex
                 legal language into plain English.
               </p>
-              <Button size="lg" onClick={handleAnalyze} disabled={isProcessing}>
+              <Button size="lg"  disabled={isProcessing}>
                 {isProcessing ? (
                   <>
                     <Loader2 className="h-4 w-4 mr-2 animate-spin" />
