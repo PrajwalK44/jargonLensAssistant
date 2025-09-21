@@ -1,5 +1,6 @@
+"use client";
 import { getBackendUrl } from "../../../lib/api";
-("use client");
+
 
 import { AnalysisDashboard } from "@/components/analysis-dashboard";
 import { Shield, ArrowLeft, Download, Share } from "lucide-react";
