@@ -1,8 +1,6 @@
+"use client";
 import { getBackendUrl } from "../lib/api";
-("use client");
 
-// ...existing imports and code...
-("use client");
 
 import { useState } from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
