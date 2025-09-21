@@ -1,7 +1,6 @@
+"use client";
 import { getBackendUrl } from "../lib/api";
-("use client");
 
-// ...existing imports and code...
 
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
